@@ -48,7 +48,9 @@
 <p><a href="https://www.buymeacoffee.com/Drink a coffee else sleep without code"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Drink a coffee else sleep without code" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranisnehal&show_icons=true&locale=en&layout=compact" alt="ranisnehal" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranisnehal&show_icons=true&locale=en&layout=compact" alt="ranisnehal" /></p>
+<br>
+<br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ranisnehal&show_icons=true&locale=en" alt="ranisnehal" /></p><br>
 <br>
 <br>
@@ -67,6 +69,9 @@
 <br />
 </details>
 
+<br />
+<br />
+</details>
 <br />
 <br />
 </details>
