@@ -1,5 +1,6 @@
+[![MastHead](https://raw.githubusercontent.com/ranisnehal/ranisnehal/master/doing something different.png)](https://ranisnehal.github.io/)
 
-[![MasterHead](https://www.canva.com/design/DAEgmqTjTrc/5Ljx8OgQ8yiQgQglJ9q-Dg/watch?utm_content=DAEgmqTjTrc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://ranisnehal.github.io)
+
 <h1 align="center">Hi 👋, I'm Snehal Rani</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new fields and doing something great</h3>
 
