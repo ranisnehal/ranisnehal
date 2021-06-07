@@ -1,5 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/ranisnehal/ranisnehal/master/doing something different.png)](https://ranisnehal.github.io)
-
+[![MastHead](https://github.com/ranisnehal/ranisnehal/blob/main/doing%20something%20different.png)](https://ranisnehal.github.io)
 <h1 align="center">Hi 👋, I'm Snehal Rani</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new fields and doing something great</h3>
 
