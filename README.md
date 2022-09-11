@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    This is Snehal Rani, a 2nd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.sbu.ac.in/ranchi"> <b>Sarala Birla University </b>, Ranchi</a>. <br>
+    This is Snehal Rani, An undergraduate pursuing B.Tech (CSE) from <a href="https://www.sbu.ac.in/ranchi"> <b>Sarala Birla University </b>, Ranchi</a>. <br>
 
  An aspiring <b> Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> and a <b> Programming Enthusiast, </b> <b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> 
